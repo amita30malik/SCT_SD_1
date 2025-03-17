@@ -1,4 +1,4 @@
-# SCT_SD_1
+# Temperature Conversion(Celsius,Fahrenheit,Kelvin)
 The first task of the internship is to create a program than converts temperatures between Celsius,Fahrenheit and Kelvin scale.
 this java program uses java swing which helps to create Graphical User Interface (GUI)for desktop application.
 The user can choose the conversion type and input a temperature value, and the program will return the converted value.
